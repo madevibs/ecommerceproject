@@ -1,0 +1,432 @@
+2024-10-23 10:28:13,583 - INFO - ********launching the browser**********
+2024-10-23 10:28:18,711 - INFO - ********launching the applicaton*********
+2024-10-23 10:28:21,508 - INFO - *****getting homepage******
+2024-10-23 10:28:26,477 - INFO - *****getting loginpage**********
+2024-10-23 10:28:29,485 - INFO - ******entering details to login*******
+2024-10-23 10:28:31,732 - INFO - ****login is sucessfull*******
+2024-10-23 10:28:33,746 - INFO - *******closing the browser***********
+2024-10-23 10:30:30,629 - INFO - ********launching the browser**********
+2024-10-23 10:30:33,726 - INFO - ********launching the applicaton*********
+2024-10-23 10:30:35,722 - INFO - *****getting homepage******
+2024-10-23 10:30:40,738 - INFO - *****getting loginpage**********
+2024-10-23 10:30:43,749 - INFO - ******entering details to login*******
+2024-10-23 10:30:47,879 - INFO - ******login is unsuccessful******
+2024-10-23 10:30:50,157 - INFO - *******closing the browser***********
+2024-10-23 10:34:19,243 - INFO - ********launching the browser**********
+2024-10-23 10:34:22,157 - INFO - ********launching the applicaton*********
+2024-10-23 10:34:24,351 - INFO - *****getting homepage******
+2024-10-23 10:34:29,305 - INFO - *****getting loginpage**********
+2024-10-23 10:34:32,307 - INFO - ******entering username********
+2024-10-23 10:34:32,705 - INFO - *****entering password********
+2024-10-23 10:34:32,856 - INFO - ***clicking on login********
+2024-10-23 10:34:32,857 - INFO - ***clicking is done*******
+2024-10-23 10:34:36,310 - INFO - ******login is unsuccessful******
+2024-10-23 10:34:38,658 - INFO - *******closing the browser***********
+2024-10-23 10:57:13,882 - INFO - ********launching the browser**********
+2024-10-23 10:57:17,013 - INFO - ********launching the applicaton*********
+2024-10-23 10:57:19,635 - INFO - *****getting homepage******
+2024-10-23 10:57:24,933 - INFO - *****getting loginpage**********
+2024-10-23 10:57:27,945 - INFO - ******entering username********
+2024-10-23 10:57:28,184 - INFO - *****entering password********
+2024-10-23 10:57:28,393 - INFO - ***clicking on login********
+2024-10-23 10:57:31,898 - INFO - ******login is unsuccessful******
+2024-10-23 10:57:34,421 - INFO - *******closing the browser***********
+2024-10-23 10:58:30,517 - INFO - ********launching the browser**********
+2024-10-23 10:58:35,531 - INFO - ********launching the applicaton*********
+2024-10-23 10:58:37,757 - INFO - *****getting homepage******
+2024-10-23 10:58:42,768 - INFO - *****getting loginpage**********
+2024-10-23 10:58:45,772 - INFO - ******entering username********
+2024-10-23 10:58:45,992 - INFO - *****entering password********
+2024-10-23 10:58:46,190 - INFO - ***clicking on login********
+2024-10-23 10:58:47,519 - INFO - ****login is sucessfull*******
+2024-10-23 10:58:49,524 - INFO - *******closing the browser***********
+2024-10-23 10:59:37,322 - INFO - ********launching the browser**********
+2024-10-23 10:59:47,235 - INFO - ********launching the applicaton*********
+2024-10-23 10:59:50,023 - INFO - *****getting homepage******
+2024-10-23 10:59:55,186 - INFO - *****getting loginpage**********
+2024-10-23 10:59:58,192 - INFO - ******entering username********
+2024-10-23 10:59:58,468 - INFO - *****entering password********
+2024-10-23 10:59:58,530 - INFO - ***clicking on login********
+2024-10-23 11:00:00,442 - INFO - ****login is sucessfull*******
+2024-10-23 11:00:02,446 - INFO - *******closing the browser***********
+2024-10-23 11:09:39,046 - INFO - ********launching the browser**********
+2024-10-23 11:09:42,512 - INFO - ********launching the applicaton*********
+2024-10-23 11:09:44,877 - INFO - *****getting homepage******
+2024-10-23 11:09:49,710 - INFO - *****getting loginpage**********
+2024-10-23 11:09:52,716 - INFO - ******entering username********
+2024-10-23 11:09:52,972 - INFO - *****entering password********
+2024-10-23 11:09:53,228 - INFO - ***clicking on login********
+2024-10-23 11:09:54,698 - INFO - ****login is sucessfull*******
+2024-10-23 11:09:56,723 - INFO - *******closing the browser***********
+2024-10-23 11:10:03,483 - INFO - ********launching the browser**********
+2024-10-23 11:10:07,927 - INFO - ********launching the applicaton*********
+2024-10-23 11:10:10,191 - INFO - *****getting homepage******
+2024-10-23 11:10:15,124 - INFO - *****getting loginpage**********
+2024-10-23 11:10:18,130 - INFO - ******entering username********
+2024-10-23 11:10:18,308 - INFO - *****entering password********
+2024-10-23 11:10:18,486 - INFO - ***clicking on login********
+2024-10-23 11:10:19,487 - INFO - ****login is sucessfull*******
+2024-10-23 11:10:21,505 - INFO - *******closing the browser***********
+2024-10-23 11:10:28,229 - INFO - ********launching the browser**********
+2024-10-23 11:10:37,378 - INFO - ********launching the applicaton*********
+2024-10-23 11:10:39,997 - INFO - *****getting homepage******
+2024-10-23 11:10:45,327 - INFO - *****getting loginpage**********
+2024-10-23 11:10:48,331 - INFO - ******entering username********
+2024-10-23 11:10:48,476 - INFO - *****entering password********
+2024-10-23 11:10:48,595 - INFO - ***clicking on login********
+2024-10-23 11:10:49,856 - INFO - ****login is sucessfull*******
+2024-10-23 11:10:51,873 - INFO - *******closing the browser***********
+2024-10-23 11:14:20,775 - INFO - ********launching the browser**********
+2024-10-23 11:14:24,173 - INFO - ********launching the applicaton*********
+2024-10-23 11:14:26,430 - INFO - ********launching the applicaton*********
+2024-10-23 11:14:27,555 - INFO - *****getting homepage******
+2024-10-23 11:14:30,415 - INFO - *****getting homepage******
+2024-10-23 11:14:35,296 - INFO - *****getting loginpage**********
+2024-10-23 11:14:36,551 - INFO - *****getting loginpage**********
+2024-10-23 11:14:37,359 - INFO - ********launching the applicaton*********
+2024-10-23 11:14:38,311 - INFO - ******entering username********
+2024-10-23 11:14:38,827 - INFO - *****entering password********
+2024-10-23 11:14:39,049 - INFO - ***clicking on login********
+2024-10-23 11:14:39,457 - INFO - *****getting homepage******
+2024-10-23 11:14:39,560 - INFO - ******entering username********
+2024-10-23 11:14:40,615 - INFO - *****entering password********
+2024-10-23 11:14:40,997 - INFO - ***clicking on login********
+2024-10-23 11:14:41,293 - INFO - ****login is sucessfull*******
+2024-10-23 11:14:42,856 - INFO - ****login is sucessfull*******
+2024-10-23 11:14:43,305 - INFO - *******closing the browser***********
+2024-10-23 11:14:44,867 - INFO - *******closing the browser***********
+2024-10-23 11:14:45,174 - INFO - *****getting loginpage**********
+2024-10-23 11:14:48,178 - INFO - ******entering username********
+2024-10-23 11:14:48,349 - INFO - *****entering password********
+2024-10-23 11:14:48,438 - INFO - ***clicking on login********
+2024-10-23 11:14:49,628 - INFO - ****login is sucessfull*******
+2024-10-23 11:14:51,643 - INFO - *******closing the browser***********
+2024-10-23 11:15:30,107 - INFO - ********launching the browser**********
+2024-10-23 11:15:30,108 - INFO - ********launching the browser**********
+2024-10-23 11:15:30,109 - INFO - ********launching the browser**********
+2024-10-23 11:15:33,278 - INFO - ********launching the applicaton*********
+2024-10-23 11:15:35,741 - INFO - ********launching the applicaton*********
+2024-10-23 11:15:36,592 - INFO - *****getting homepage******
+2024-10-23 11:15:38,760 - INFO - *****getting homepage******
+2024-10-23 11:15:42,313 - INFO - *****getting loginpage**********
+2024-10-23 11:15:43,508 - INFO - *****getting loginpage**********
+2024-10-23 11:15:43,723 - INFO - ********launching the applicaton*********
+2024-10-23 11:15:45,323 - INFO - ******entering username********
+2024-10-23 11:15:45,619 - INFO - *****entering password********
+2024-10-23 11:15:45,700 - INFO - *****getting homepage******
+2024-10-23 11:15:45,890 - INFO - ***clicking on login********
+2024-10-23 11:15:46,516 - INFO - ******entering username********
+2024-10-23 11:15:46,936 - INFO - *****entering password********
+2024-10-23 11:15:47,126 - INFO - ***clicking on login********
+2024-10-23 11:15:47,399 - INFO - ****login is sucessfull*******
+2024-10-23 11:15:48,883 - INFO - ****login is sucessfull*******
+2024-10-23 11:15:49,408 - INFO - *******closing the browser***********
+2024-10-23 11:15:50,897 - INFO - *******closing the browser***********
+2024-10-23 11:15:51,934 - INFO - *****getting loginpage**********
+2024-10-23 11:15:54,947 - INFO - ******entering username********
+2024-10-23 11:15:55,128 - INFO - *****entering password********
+2024-10-23 11:15:55,235 - INFO - ***clicking on login********
+2024-10-23 11:15:56,351 - INFO - ****login is sucessfull*******
+2024-10-23 11:15:58,360 - INFO - *******closing the browser***********
+2024-10-23 11:28:54,016 - INFO - ********launching the browser**********
+2024-10-23 11:28:57,120 - INFO - ********launching the applicaton*********
+2024-10-23 11:29:00,220 - INFO - *****getting homepage******
+2024-10-23 11:29:05,032 - INFO - *****getting loginpage**********
+2024-10-23 11:29:08,034 - INFO - ******entering username********
+2024-10-23 11:29:08,217 - INFO - *****entering password********
+2024-10-23 11:29:08,418 - INFO - ***clicking on login********
+2024-10-23 11:29:09,884 - INFO - ****login is sucessfull*******
+2024-10-23 11:29:11,897 - INFO - *******closing the browser***********
+2024-10-23 11:29:18,425 - INFO - ********launching the browser**********
+2024-10-23 11:29:22,675 - INFO - ********launching the applicaton*********
+2024-10-23 11:29:24,847 - INFO - *****getting homepage******
+2024-10-23 11:29:29,524 - INFO - *****getting loginpage**********
+2024-10-23 11:29:32,531 - INFO - ******entering username********
+2024-10-23 11:29:32,699 - INFO - *****entering password********
+2024-10-23 11:29:32,851 - INFO - ***clicking on login********
+2024-10-23 11:29:34,109 - INFO - ****login is sucessfull*******
+2024-10-23 11:29:36,125 - INFO - *******closing the browser***********
+2024-10-23 11:29:42,708 - INFO - ********launching the browser**********
+2024-10-23 11:29:49,788 - INFO - ********launching the applicaton*********
+2024-10-23 11:29:51,687 - INFO - *****getting homepage******
+2024-10-23 11:29:56,469 - INFO - *****getting loginpage**********
+2024-10-23 11:29:59,472 - INFO - ******entering username********
+2024-10-23 11:29:59,583 - INFO - *****entering password********
+2024-10-23 11:29:59,617 - INFO - ***clicking on login********
+2024-10-23 11:30:00,810 - INFO - ****login is sucessfull*******
+2024-10-23 11:30:02,812 - INFO - *******closing the browser***********
+2024-10-24 10:40:32,444 - INFO - ********launching the browser**********
+2024-10-24 10:40:37,997 - INFO - ********launching the applicaton*********
+2024-10-24 10:40:40,673 - INFO - *****getting homepage******
+2024-10-24 10:40:51,082 - INFO - *****getting loginpage**********
+2024-10-24 10:40:54,097 - INFO - *****reading the data from Excel file*************
+2024-10-24 10:40:54,098 - INFO - ******entering username********
+2024-10-24 10:40:54,571 - INFO - *****entering password********
+2024-10-24 10:40:54,753 - INFO - ***clicking on login********
+2024-10-24 10:41:05,239 - INFO - ****login is sucessfull*******
+2024-10-24 10:41:07,254 - INFO - *******closing the browser***********
+2024-10-24 10:41:14,154 - INFO - ********launching the browser**********
+2024-10-24 10:41:25,389 - INFO - ********launching the applicaton*********
+2024-10-24 10:41:27,698 - INFO - *****getting homepage******
+2024-10-24 10:41:32,883 - INFO - *****getting loginpage**********
+2024-10-24 10:41:35,896 - INFO - *****reading the data from Excel file*************
+2024-10-24 10:41:35,896 - INFO - ******entering username********
+2024-10-24 10:41:36,299 - INFO - *****entering password********
+2024-10-24 10:41:36,471 - INFO - ***clicking on login********
+2024-10-24 10:41:38,137 - INFO - ****login is sucessfull*******
+2024-10-24 10:41:40,141 - INFO - *******closing the browser***********
+2024-10-24 10:41:47,101 - INFO - ********launching the browser**********
+2024-10-24 10:41:57,031 - INFO - ********launching the applicaton*********
+2024-10-24 10:41:59,496 - INFO - *****getting homepage******
+2024-10-24 10:42:04,655 - INFO - *****getting loginpage**********
+2024-10-24 10:42:07,660 - INFO - *****reading the data from Excel file*************
+2024-10-24 10:42:07,660 - INFO - ******entering username********
+2024-10-24 10:42:07,904 - INFO - *****entering password********
+2024-10-24 10:42:07,995 - INFO - ***clicking on login********
+2024-10-24 10:42:09,401 - INFO - ****login is sucessfull*******
+2024-10-24 10:42:11,416 - INFO - *******closing the browser***********
+2024-10-24 10:44:01,140 - INFO - ********launching the browser**********
+2024-10-24 10:44:04,578 - INFO - ********launching the applicaton*********
+2024-10-24 10:44:06,750 - INFO - *****getting homepage******
+2024-10-24 10:44:11,906 - INFO - *****getting loginpage**********
+2024-10-24 10:44:14,914 - INFO - *****reading the data from Excel file*************
+2024-10-24 10:44:14,915 - INFO - ******entering username********
+2024-10-24 10:44:15,390 - INFO - *****entering password********
+2024-10-24 10:44:15,621 - INFO - ***clicking on login********
+2024-10-24 10:44:17,260 - INFO - ****login is sucessfull*******
+2024-10-24 10:44:19,264 - INFO - *******closing the browser***********
+2024-10-24 10:44:26,073 - INFO - ********launching the browser**********
+2024-10-24 10:45:10,277 - INFO - ********launching the browser**********
+2024-10-24 10:45:13,584 - INFO - ********launching the applicaton*********
+2024-10-24 10:45:15,689 - INFO - *****getting homepage******
+2024-10-24 10:45:20,725 - INFO - *****getting loginpage**********
+2024-10-24 10:45:23,734 - INFO - *****reading the data from Excel file*************
+2024-10-24 10:45:23,734 - INFO - ******entering username********
+2024-10-24 10:45:23,996 - INFO - *****entering password********
+2024-10-24 10:45:24,173 - INFO - ***clicking on login********
+2024-10-24 10:45:28,699 - INFO - ******login is unsuccessful******
+2024-10-24 10:45:31,655 - INFO - *******closing the browser***********
+2024-10-24 10:45:35,381 - INFO - ********launching the browser**********
+2024-10-24 10:45:40,201 - INFO - ********launching the applicaton*********
+2024-10-24 10:45:43,220 - INFO - *****getting homepage******
+2024-10-24 10:45:48,355 - INFO - *****getting loginpage**********
+2024-10-24 10:45:51,367 - INFO - *****reading the data from Excel file*************
+2024-10-24 10:45:51,367 - INFO - ******entering username********
+2024-10-24 10:45:51,708 - INFO - *****entering password********
+2024-10-24 10:45:51,883 - INFO - ***clicking on login********
+2024-10-24 10:45:56,814 - INFO - ******login is unsuccessful******
+2024-10-24 10:45:58,836 - INFO - *******closing the browser***********
+2024-10-24 10:46:01,551 - INFO - ********launching the browser**********
+2024-10-24 10:46:11,205 - INFO - ********launching the applicaton*********
+2024-10-24 10:46:13,255 - INFO - *****getting homepage******
+2024-10-24 10:46:18,551 - INFO - *****getting loginpage**********
+2024-10-24 10:46:21,559 - INFO - *****reading the data from Excel file*************
+2024-10-24 10:46:21,559 - INFO - ******entering username********
+2024-10-24 10:46:21,918 - INFO - *****entering password********
+2024-10-24 10:46:21,982 - INFO - ***clicking on login********
+2024-10-24 10:46:26,576 - INFO - ******login is unsuccessful******
+2024-10-24 10:46:36,778 - INFO - *******closing the browser***********
+2024-10-24 11:23:07,889 - INFO - ********launching the browser**********
+2024-10-24 11:23:10,396 - INFO - ********launching the applicaton*********
+2024-10-24 11:23:12,517 - INFO - ***entering homepage*******
+2024-10-24 11:23:15,516 - INFO - ***registrationPage******
+2024-10-24 11:23:16,625 - INFO - ***clickin terms and conditions******
+2024-10-24 11:23:16,796 - INFO - ***clicking my account******
+2024-10-24 11:23:22,068 - INFO - *******closing the browser***********
+2024-10-24 11:23:28,601 - INFO - ********launching the browser**********
+2024-10-24 11:23:33,028 - INFO - ********launching the applicaton*********
+2024-10-24 11:28:17,148 - INFO - ********launching the browser**********
+2024-10-24 11:28:19,515 - INFO - ********launching the applicaton*********
+2024-10-24 11:28:21,476 - INFO - ***entering homepage*******
+2024-10-24 11:28:24,413 - INFO - ***registrationPage******
+2024-10-24 11:28:25,687 - INFO - ***clickin terms and conditions******
+2024-10-24 11:28:25,801 - INFO - ***clicking my account******
+2024-10-24 11:28:41,099 - INFO - *******closing the browser***********
+2024-10-24 11:29:09,754 - INFO - ********launching the browser**********
+2024-10-24 11:29:12,530 - INFO - ********launching the applicaton*********
+2024-10-24 11:29:14,925 - INFO - ***entering homepage*******
+2024-10-24 11:29:17,931 - INFO - ***registrationPage******
+2024-10-24 11:29:19,117 - INFO - ***clickin terms and conditions******
+2024-10-24 11:29:19,226 - INFO - ***clicking my account******
+2024-10-24 11:29:24,729 - INFO - *******closing the browser***********
+2024-10-24 11:29:31,332 - INFO - ********launching the browser**********
+2024-10-24 11:29:35,311 - INFO - ********launching the applicaton*********
+2024-10-24 11:34:28,944 - INFO - ********launching the browser**********
+2024-10-24 11:34:31,306 - INFO - ********launching the applicaton*********
+2024-10-24 11:34:33,293 - INFO - ***entering homepage*******
+2024-10-24 11:34:36,202 - INFO - ***registrationPage******
+2024-10-24 11:34:37,313 - INFO - ***clickin terms and conditions******
+2024-10-24 11:34:40,756 - INFO - *******closing the browser***********
+2024-10-24 11:35:02,484 - INFO - ********launching the browser**********
+2024-10-24 11:35:04,777 - INFO - ********launching the applicaton*********
+2024-10-24 11:35:08,067 - INFO - ***entering homepage*******
+2024-10-24 11:35:11,101 - INFO - ***registrationPage******
+2024-10-24 11:35:11,831 - INFO - ***clickin terms and conditions******
+2024-10-24 11:35:11,928 - INFO - ***clicking my account******
+2024-10-24 11:35:17,405 - INFO - *******closing the browser***********
+2024-10-24 11:35:31,810 - INFO - ********launching the browser**********
+2024-10-24 11:35:34,026 - INFO - ********launching the applicaton*********
+2024-10-24 11:35:36,190 - INFO - ***entering homepage*******
+2024-10-24 11:35:39,098 - INFO - ***registrationPage******
+2024-10-24 11:35:40,332 - INFO - ***clickin terms and conditions******
+2024-10-24 11:35:40,454 - INFO - ***clicking my account******
+2024-10-24 11:35:45,736 - INFO - *******closing the browser***********
+2024-10-24 11:41:09,930 - INFO - ********launching the browser**********
+2024-10-24 11:41:13,425 - INFO - ********launching the applicaton*********
+2024-10-24 11:41:15,836 - INFO - *****getting homepage******
+2024-10-24 11:41:20,459 - INFO - *****getting loginpage**********
+2024-10-24 11:41:23,460 - INFO - *****reading the data from Excel file*************
+2024-10-24 11:41:23,460 - INFO - ******entering username********
+2024-10-24 11:41:23,682 - INFO - *****entering password********
+2024-10-24 11:41:23,821 - INFO - ***clicking on login********
+2024-10-24 11:41:27,896 - INFO - ******login is unsuccessful******
+2024-10-24 11:41:30,142 - INFO - *******closing the browser***********
+2024-10-24 11:41:32,647 - INFO - ********launching the browser**********
+2024-10-24 11:41:34,887 - INFO - ********launching the applicaton*********
+2024-10-24 11:41:36,898 - INFO - *****getting homepage******
+2024-10-24 11:41:41,496 - INFO - *****getting loginpage**********
+2024-10-24 11:41:44,498 - INFO - ******entering username********
+2024-10-24 11:41:44,731 - INFO - *****entering password********
+2024-10-24 11:41:44,882 - INFO - ***clicking on login********
+2024-10-24 11:41:46,354 - INFO - ****login is sucessfull*******
+2024-10-24 11:41:48,372 - INFO - *******closing the browser***********
+2024-10-24 11:42:59,095 - INFO - ********launching the browser**********
+2024-10-24 11:43:01,464 - INFO - ********launching the applicaton*********
+2024-10-24 11:43:04,021 - INFO - *****getting homepage******
+2024-10-24 11:43:08,574 - INFO - *****getting loginpage**********
+2024-10-24 11:43:11,576 - INFO - *****reading the data from Excel file*************
+2024-10-24 11:43:11,576 - INFO - ******entering username********
+2024-10-24 11:43:11,801 - INFO - *****entering password********
+2024-10-24 11:43:11,953 - INFO - ***clicking on login********
+2024-10-24 11:43:16,578 - INFO - ******login is unsuccessful******
+2024-10-24 11:43:18,793 - INFO - *******closing the browser***********
+2024-10-24 11:43:21,237 - INFO - ********launching the browser**********
+2024-10-24 11:43:23,418 - INFO - ********launching the applicaton*********
+2024-10-24 11:43:25,209 - INFO - ***entering homepage*******
+2024-10-24 11:43:28,082 - INFO - ***registrationPage******
+2024-10-24 11:43:28,853 - INFO - ***clickin terms and conditions******
+2024-10-24 11:43:28,942 - INFO - ***clicking my account******
+2024-10-24 11:43:34,135 - INFO - *******closing the browser***********
+2024-10-24 17:22:01,695 - INFO - ********launching the browser**********
+2024-10-24 17:22:05,769 - INFO - ********launching the applicaton*********
+2024-10-24 17:22:08,088 - INFO - *****getting homepage******
+2024-10-24 17:22:12,720 - INFO - *****getting loginpage**********
+2024-10-24 17:22:15,732 - INFO - *****reading the data from Excel file*************
+2024-10-24 17:22:15,732 - INFO - ******entering username********
+2024-10-24 17:22:15,988 - INFO - *****entering password********
+2024-10-24 17:22:16,158 - INFO - ***clicking on login********
+2024-10-24 17:22:20,614 - INFO - ******login is unsuccessful******
+2024-10-24 17:22:22,967 - INFO - *******closing the browser***********
+2024-10-24 17:22:25,458 - INFO - ********launching the browser**********
+2024-10-24 17:22:27,857 - INFO - ********launching the applicaton*********
+2024-10-24 17:22:30,274 - INFO - *****getting homepage******
+2024-10-24 17:22:34,961 - INFO - *****getting loginpage**********
+2024-10-24 17:22:37,975 - INFO - ******entering username********
+2024-10-24 17:22:38,377 - INFO - *****entering password********
+2024-10-24 17:22:38,524 - INFO - ***clicking on login********
+2024-10-24 17:22:40,021 - INFO - ****login is sucessfull*******
+2024-10-24 17:22:42,023 - INFO - *******closing the browser***********
+2024-10-25 10:41:22,656 - INFO - ********launching the browser**********
+2024-10-25 10:41:25,700 - INFO - ********launching the applicaton*********
+2024-10-25 10:41:27,685 - INFO - *****getting homepage******
+2024-10-25 10:41:32,230 - INFO - *****getting loginpage**********
+2024-10-25 10:41:35,231 - INFO - *****reading the data from Excel file*************
+2024-10-25 10:41:35,231 - INFO - ******entering username********
+2024-10-25 10:41:35,468 - INFO - *****entering password********
+2024-10-25 10:41:35,658 - INFO - ***clicking on login********
+2024-10-25 10:41:40,089 - INFO - ******login is unsuccessful******
+2024-10-25 10:41:42,280 - INFO - *******closing the browser***********
+2024-10-25 10:41:44,670 - INFO - ********launching the browser**********
+2024-10-25 10:41:46,684 - INFO - ********launching the applicaton*********
+2024-10-25 10:41:48,449 - INFO - *****getting homepage******
+2024-10-25 10:41:52,982 - INFO - *****getting loginpage**********
+2024-10-25 10:41:55,983 - INFO - ******entering username********
+2024-10-25 10:41:56,159 - INFO - *****entering password********
+2024-10-25 10:41:56,271 - INFO - ***clicking on login********
+2024-10-25 10:41:57,268 - INFO - ****login is sucessfull*******
+2024-10-25 10:41:59,275 - INFO - *******closing the browser***********
+2024-10-25 10:44:08,984 - INFO - ********launching the browser**********
+2024-10-25 10:44:10,952 - INFO - ********launching the applicaton*********
+2024-10-25 10:44:12,854 - INFO - *****getting homepage******
+2024-10-25 10:44:17,451 - INFO - *****getting loginpage**********
+2024-10-25 10:44:20,452 - INFO - *****reading the data from Excel file*************
+2024-10-25 10:44:20,453 - INFO - ******entering username********
+2024-10-25 10:44:20,637 - INFO - *****entering password********
+2024-10-25 10:44:20,754 - INFO - ***clicking on login********
+2024-10-25 10:44:25,278 - INFO - ******login is unsuccessful******
+2024-10-25 10:44:27,481 - INFO - *******closing the browser***********
+2024-10-25 10:44:29,839 - INFO - ********launching the browser**********
+2024-10-25 10:44:31,703 - INFO - ********launching the applicaton*********
+2024-10-25 10:44:33,549 - INFO - *****getting homepage******
+2024-10-25 10:44:38,100 - INFO - *****getting loginpage**********
+2024-10-25 10:44:41,102 - INFO - ******entering username********
+2024-10-25 10:44:41,266 - INFO - *****entering password********
+2024-10-25 10:44:41,485 - INFO - ***clicking on login********
+2024-10-25 10:44:42,800 - INFO - ****login is sucessfull*******
+2024-10-25 10:44:44,803 - INFO - *******closing the browser***********
+2024-10-26 10:49:06,436 - INFO - ********launching the browser**********
+2024-10-26 10:49:09,711 - INFO - ********launching the applicaton*********
+2024-10-26 10:49:11,665 - INFO - *****getting homepage******
+2024-10-26 10:49:16,463 - INFO - *****getting loginpage**********
+2024-10-26 10:49:19,464 - INFO - *****reading the data from Excel file*************
+2024-10-26 10:49:19,464 - INFO - ******entering username********
+2024-10-26 10:49:19,776 - INFO - *****entering password********
+2024-10-26 10:49:20,011 - INFO - ***clicking on login********
+2024-10-26 10:49:24,585 - INFO - ******login is unsuccessful******
+2024-10-26 10:49:26,763 - INFO - *******closing the browser***********
+2024-10-26 10:49:50,275 - INFO - ********launching the browser**********
+2024-10-26 10:53:52,034 - INFO - ********launching the browser**********
+2024-10-26 10:53:54,243 - INFO - ********launching the applicaton*********
+2024-10-26 10:53:56,214 - INFO - *****getting homepage******
+2024-10-26 10:54:01,191 - INFO - *****getting loginpage**********
+2024-10-26 10:54:04,192 - INFO - *****reading the data from Excel file*************
+2024-10-26 10:54:04,193 - INFO - ******entering username********
+2024-10-26 10:54:04,404 - INFO - *****entering password********
+2024-10-26 10:54:04,541 - INFO - ***clicking on login********
+2024-10-26 10:54:08,965 - INFO - ******login is unsuccessful******
+2024-10-26 10:54:11,202 - INFO - *******closing the browser***********
+2024-10-26 10:54:13,670 - INFO - ********launching the browser**********
+2024-10-26 10:54:15,713 - INFO - ********launching the applicaton*********
+2024-10-26 10:54:17,766 - INFO - *****getting homepage******
+2024-10-26 10:54:22,629 - INFO - *****getting loginpage**********
+2024-10-26 10:54:25,629 - INFO - ******entering username********
+2024-10-26 10:54:25,812 - INFO - *****entering password********
+2024-10-26 10:54:26,060 - INFO - ***clicking on login********
+2024-10-26 10:54:27,380 - INFO - ****login is sucessfull*******
+2024-10-26 10:54:29,384 - INFO - *******closing the browser***********
+2024-10-26 10:57:35,722 - INFO - ********launching the browser**********
+2024-10-26 10:57:37,909 - INFO - ********launching the applicaton*********
+2024-10-26 10:57:40,147 - INFO - *****getting homepage******
+2024-10-26 10:57:44,948 - INFO - *****getting loginpage**********
+2024-10-26 10:57:47,949 - INFO - *****reading the data from Excel file*************
+2024-10-26 10:57:47,949 - INFO - ******entering username********
+2024-10-26 10:57:48,160 - INFO - *****entering password********
+2024-10-26 10:57:48,368 - INFO - ***clicking on login********
+2024-10-26 10:57:52,964 - INFO - ******login is unsuccessful******
+2024-10-26 10:57:55,192 - INFO - *******closing the browser***********
+2024-10-26 10:57:57,705 - INFO - ********launching the browser**********
+2024-10-26 10:57:59,905 - INFO - ********launching the applicaton*********
+2024-10-26 10:58:02,067 - INFO - *****getting homepage******
+2024-10-26 10:58:06,936 - INFO - *****getting loginpage**********
+2024-10-26 10:58:09,938 - INFO - ******entering username********
+2024-10-26 10:58:10,158 - INFO - *****entering password********
+2024-10-26 10:58:10,376 - INFO - ***clicking on login********
+2024-10-26 10:58:11,690 - INFO - ****login is sucessfull*******
+2024-10-26 10:58:13,695 - INFO - *******closing the browser***********
+2024-10-26 11:01:42,054 - INFO - ********launching the browser**********
+2024-10-26 11:01:44,377 - INFO - ********launching the applicaton*********
+2024-10-26 11:01:46,375 - INFO - *****getting homepage******
+2024-10-26 11:01:51,226 - INFO - *****getting loginpage**********
+2024-10-26 11:01:54,226 - INFO - *****reading the data from Excel file*************
+2024-10-26 11:01:54,227 - INFO - ******entering username********
+2024-10-26 11:01:54,432 - INFO - *****entering password********
+2024-10-26 11:01:54,637 - INFO - ***clicking on login********
+2024-10-26 11:01:59,217 - INFO - ******login is unsuccessful******
+2024-10-26 11:02:01,405 - INFO - *******closing the browser***********
+2024-10-26 11:02:03,916 - INFO - ********launching the browser**********
+2024-10-26 11:02:06,196 - INFO - ********launching the applicaton*********
+2024-10-26 11:02:08,199 - INFO - ***entering homepage*******
+2024-10-26 11:02:11,120 - INFO - ***registrationPage******
+2024-10-26 11:02:12,401 - INFO - ***clickin terms and conditions******
+2024-10-26 11:02:12,514 - INFO - ***clicking my account******
+2024-10-26 11:02:17,956 - INFO - *******closing the browser***********
